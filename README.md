@@ -15,3 +15,4 @@ P.S. docker не получилось установить на винду - htt
 
 ### [Файл .py с кодом для streamlit](https://github.com/Fedor-Kirillow/MTech/blob/main/streamlit_code.py)  <br>
 
+Статус проекта — $\textcolor{orange}{\textsf{Возможны доработки после получения обратной связи}}$
