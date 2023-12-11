@@ -3,5 +3,5 @@
 !!!Проект дополняется<br>
 ### [Посмотреть проверку гипотез в jupyter notebook]()  <br>
 
-### [Файл .py с кодом для streamlit]()  <br>
+### [Файл .py с кодом для streamlit](https://github.com/Fedor-Kirillow/MTech/blob/main/streamlit_code.py)  <br>
 
